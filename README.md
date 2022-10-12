@@ -13,8 +13,8 @@ WowStudio</a>!</h3>
 - 👉 Leading a pack of 1098 WowDalmatian NFTs living in the Polygon Network, <a href="https://opensea.io/collection/wowdalmatians" target="blank">Collection on OS</a>
 
 - 🌱 Currently expanding my skills & knowledge through <a href="https://courses.consensys.net" target="_blank">
-ConsenSys Academy</a> a <a href="https://courses.consensys.net" target="_blank">
-ConsenSys</a> initiative.
+ConsenSys Academy</a> & <a href="https://github.com/AthensLab" target="_blank">
+AthensLabs</a>.
 
 - 🤝 Complete web3 services from the 1st NFT studio in Greece.
 
